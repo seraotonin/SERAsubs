@@ -1,4 +1,4 @@
-[WINDOWS ONLY] DOWNLOAD LINK <a href="https://drive.google.com/file/d/14uNp7fp9fDXUtXFi3un_nKxLX7zM3HdQ/view?usp=sharing"></a>
+[WINDOWS ONLY] DOWNLOAD LINK <a href="https://drive.google.com/file/d/14uNp7fp9fDXUtXFi3un_nKxLX7zM3HdQ/view?usp=sharing">here</a>.
 
 
 Instructions: Download SERAsubs.7z from Google Drive (3.5 GB). Extract all the folders into the SERAsubs folder.
