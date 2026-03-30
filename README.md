@@ -17,9 +17,9 @@ for VTuber clippers however you are free to use it how you'd like.
 
 ⚠️NOTICE ON THE USE OF AI⚠️
 
-SERAsubs makes use of OpenAI's Whisper software, an automatic speech recognition (ASR) system, which is not
-the same as generative AI that has harmful effects on the environment. As you can see, you are meant to download a 
+SERAsubs makes use of OpenAI's Whisper software, an automatic speech recognition (ASR) system, which is <b> not
+the same as generative AI </b> that has harmful effects on the environment. As you can see, you are meant to download a 
 folder called models, carrying training data, which is only about 3.5 GB. While I understand that this is a lot to 
-download, this will effectively allow you to run SERAsubs completely offline. No data is sent to servers that 
-consume large amounts of water and it will only utilize your device's hardware to run the auto transcription process.
+download, this will effectively allow you to run SERAsubs completely offline. <b> No data is sent to servers that 
+consume large amounts of water </b> and it will only utilize your device's hardware to run the auto transcription process.
 This is also more secure as your clips are not sent anywhere and only stay within your device.
