@@ -1,0 +1,12 @@
+ffmpeg/doc/
+ffmpeg/presets/
+__pycache__/
+
+models/
+ffmpeg/
+python/
+
+*.pyc
+*.pyo
+*.pyd
+*.log
